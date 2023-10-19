@@ -27,9 +27,9 @@ public class Day11_soalPemesanan {
         }else if (menu == 4){
             harga = 12000 * jumlah;
 }
-        System.out.println("Menu yang dipesan  \t:" + menu);
-        System.out.println("Jumlah Pesanan \t:" + jumlah);
+        System.out.println("Menu yang dipesan  :" + menu);
+        System.out.println("Jumlah Pesanan     :" + jumlah);
         System.out.println("===========================");
-        System.out.println("Total Pembayaran : \t:"+harga);
+        System.out.println("Total Pembayaran   :"+harga);
 }
 }
